@@ -1,0 +1,33 @@
+#myLable {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20em;
+
+}
+
+.lable {
+    align-items: center;
+    text-align: center;
+}
+
+.button {
+    text-align: center;
+
+}
+
+.btn {
+    padding: 10px 20px;
+    color: white;
+    background-color: rgb(243, 50, 227);
+    text-align: center;
+    cursor: pointer;
+    border-radius: 20px;
+    transition: 0.25s;
+
+}
+
+.btn:hover {
+    background-color: rgb(148, 12, 206);
+    transition: 0.25s;
+
+}
